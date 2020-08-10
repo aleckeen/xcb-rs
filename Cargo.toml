@@ -1,0 +1,5 @@
+[package]
+name = "xcb-rs"
+version = "0.1.0"
+authors = ["Alec Keen <aleckeen@tutanota.com>"]
+edition = "2018"

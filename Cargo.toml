@@ -2,7 +2,10 @@
 name = "xcb-rs"
 version = "0.1.0"
 authors = ["Alec Keen <aleckeen@tutanota.com>"]
+license = "MIT"
 edition = "2018"
+description = "XCB Rust bindings."
+readme = "README.md"
 
 [dependencies]
 libc = "0.2"

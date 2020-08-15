@@ -2,9 +2,11 @@
 name = "xcb-rs"
 version = "0.1.0"
 authors = ["Alec Keen <aleckeen@tutanota.com>"]
-license = "MIT"
-edition = "2018"
+repository = "https://github.com/aleckeen/xcb-rs.git"
+keywords = ["xcb", "window", "x11", "x"]
 description = "XCB Rust bindings."
+edition = "2018"
+license = "MIT"
 readme = "README.md"
 
 [dependencies]
